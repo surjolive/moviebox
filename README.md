@@ -27,14 +27,14 @@
 This repository is dedicated to hosting the **MovieBox Premium v2** APK release in a clean, public distribution format. It is designed for users who want quick access to the APK file without source code or development artifacts. The repository also includes polished visual assets and a comprehensive README to make the release feel premium and professional.
 
 ## What's Included
-- [Latest APK release](https://github.com/surjolive/moviebox/releases/tag/v2) â€” Android APK installer file
-- `README.md` â€” repository release notes and usage guide
-- `assets/app-icon.svg` â€” app icon preview for branding
-- `assets/banner.svg` â€” hero banner for the README
-- `assets/screenshot.svg` â€” UI preview for premium MovieBox features
-- `assets/Screenshot_20260507-000411.png` â€” additional MovieBox screenshot
-- `assets/Screenshot_20260507-000620.png` â€” additional MovieBox screenshot
-- `assets/Picsart_26-05-06_09-13-21-341.png` â€” premium UI screenshot
+- [Latest APK release](https://github.com/surjolive/moviebox/releases/tag/v2) - Android APK installer file
+- `README.md` - repository release notes and usage guide
+- `assets/app-icon.svg` - app icon preview for branding
+- `assets/banner.svg` - hero banner for the README
+- `assets/screenshot.svg` - UI preview for premium MovieBox features
+- `assets/Screenshot_20260507-000411.png` - additional MovieBox screenshot
+- `assets/Screenshot_20260507-000620.png` - additional MovieBox screenshot
+- `assets/Picsart_26-05-06_09-13-21-341.png` - premium UI screenshot
 
 ## APK Details
 - File name: `MovieBox.v4.0.02.0831.02.Premium.apk`
@@ -101,6 +101,8 @@ moviebox/
     |-- banner.svg
     `-- screenshot.svg
 ```
+
+The APK is distributed through the [v2 GitHub release](https://github.com/surjolive/moviebox/releases/tag/v2).
 
 The APK is distributed through the [v2 GitHub release](https://github.com/surjolive/moviebox/releases/tag/v2).
 
