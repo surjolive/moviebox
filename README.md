@@ -24,8 +24,7 @@
 </table>
 </div>
 
-## âœ¨ Repository Description
-
+## Repository Description
 This repository is dedicated to hosting the **MovieBox Premium v2** APK release in a clean, public distribution format. It is designed for users who want quick access to the APK file without source code or development artifacts. The repository also includes polished visual assets and a comprehensive README to make the release feel premium and professional.
 
 ## ðŸ“Œ Whatâ€™s Included
