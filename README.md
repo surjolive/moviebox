@@ -12,15 +12,17 @@
 
 ---
 
-<table>
+<div align="center">
+<table align="center" border="1" cellpadding="14" cellspacing="0">
 <tr>
-<td align="center">
-<strong>Download Latest APK</strong><br />
-<a href="https://github.com/surjolive/moviebox/releases/download/v2/MovieBox.v4.0.02.0831.02.Premium.apk">MovieBox Premium v2</a><br />
-<sub>MovieBox.v4.0.02.0831.02.Premium.apk</sub>
+<td align="center" bgcolor="#fff3cd">
+<strong>DOWNLOAD LATEST APK</strong><br />
+<a href="https://github.com/surjolive/moviebox/releases/download/v2/MovieBox.v4.0.02.0831.02.Premium.apk"><strong>MovieBox Premium v2</strong></a><br />
+<sub>Latest release · MovieBox.v4.0.02.0831.02.Premium.apk</sub>
 </td>
 </tr>
 </table>
+</div>
 
 ## âœ¨ Repository Description
 
