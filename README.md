@@ -7,7 +7,7 @@
   <img src="assets/banner.svg" alt="MovieBox Premium banner" width="800" />
 </p>
 
-> A premium release repository for the MovieBox Premium v2 Android APK package.
+> A premium release repository for the MovieBox Lite v3 Android APK package.
 
 ---
 
@@ -16,18 +16,18 @@
 <tr>
 <td align="center" bgcolor="#fff3cd">
 <strong>DOWNLOAD LATEST APK</strong><br />
-<a href="https://github.com/surjolive/moviebox/releases/download/v2/MovieBox.v4.0.02.0831.02.Premium.apk"><strong>MovieBox Premium v2</strong></a><br />
-<sub>Latest release · MovieBox.v4.0.02.0831.02.Premium.apk</sub>
+<a href="https://github.com/surjolive/moviebox/releases/download/v3/MovieBox.Lite.v3.Premium.apk"><strong>MovieBox Lite v3</strong></a><br />
+<sub>Latest release · MovieBox.Lite.v3.Premium.apk</sub>
 </td>
 </tr>
 </table>
 </div>
 
 ## Repository Description
-This repository is dedicated to hosting the **MovieBox Premium v2** APK release in a clean, public distribution format. It is designed for users who want quick access to the APK file without source code or development artifacts. The repository also includes polished visual assets and a comprehensive README to make the release feel premium and professional.
+This repository is dedicated to hosting the **MovieBox Lite v3** APK release in a clean, public distribution format. It is designed for users who want quick access to the APK file without source code or development artifacts. The repository also includes polished visual assets and a comprehensive README to make the release feel premium and professional.
 
 ## What's Included
-- [Latest APK release](https://github.com/surjolive/moviebox/releases/tag/v2) - Android APK installer file
+- [Latest APK release](https://github.com/surjolive/moviebox/releases/tag/v3) - Android APK installer file
 - `README.md` - repository release notes and usage guide
 - `assets/app-icon.svg` - app icon preview for branding
 - `assets/banner.svg` - hero banner for the README
@@ -37,10 +37,10 @@ This repository is dedicated to hosting the **MovieBox Premium v2** APK release 
 - `assets/Picsart_26-05-06_09-13-21-341.png` - premium UI screenshot
 
 ## APK Details
-- File name: `MovieBox.v4.0.02.0831.02.Premium.apk`
+- File name: `MovieBox.Lite.v3.Premium.apk`
 - Package type: Android APK
-- Release version: `v2`
-- Size: ~60 MB
+- Release version: `v3`
+- Size: 21,429,588 bytes (~20.4 MiB)
 - File format: `application/vnd.android.package-archive`
 
 ## Why This Repo Exists
@@ -67,16 +67,10 @@ This repository is dedicated to hosting the **MovieBox Premium v2** APK release 
 </p>
 
 ## Release Notes
-**MovieBox Premium v2** includes:
-
-- Updated premium UI styling and navigation
-- Download manager improvements with batch downloads
-- Enhanced streaming playback experience
-- New family-friendly mode controls
-- Stability and performance improvements
+**MovieBox Lite v3** is available from the [v3 GitHub release](https://github.com/surjolive/moviebox/releases/tag/v3).
 
 ## Installation Guide
-1. Download `MovieBox.v4.0.02.0831.02.Premium.apk` from the repository or release page.
+1. Download `MovieBox.Lite.v3.Premium.apk` from the repository or release page.
 2. Transfer the APK to your Android device.
 3. Open the file with a file browser or package installer.
 4. If prompted, enable installation from unknown sources for your installer app.
@@ -102,9 +96,9 @@ moviebox/
     `-- screenshot.svg
 ```
 
-The APK is distributed through the [v2 GitHub release](https://github.com/surjolive/moviebox/releases/tag/v2).
+The APK is distributed through the [v2 GitHub release](https://github.com/surjolive/moviebox/releases/tag/v3).
 
-The APK is distributed through the [v2 GitHub release](https://github.com/surjolive/moviebox/releases/tag/v2).
+The APK is distributed through the [v2 GitHub release](https://github.com/surjolive/moviebox/releases/tag/v3).
 
 ## Contact & Support
 If you need help or have questions about this release, open an issue on the repository or contact the maintainer through GitHub.
