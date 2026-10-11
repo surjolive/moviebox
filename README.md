@@ -96,9 +96,7 @@ moviebox/
     `-- screenshot.svg
 ```
 
-The APK is distributed through the [v2 GitHub release](https://github.com/surjolive/moviebox/releases/tag/v3).
-
-The APK is distributed through the [v2 GitHub release](https://github.com/surjolive/moviebox/releases/tag/v3).
+The APK is distributed through the [v3 GitHub release](https://github.com/surjolive/moviebox/releases/tag/v3).
 
 ## Contact & Support
 If you need help or have questions about this release, open an issue on the repository or contact the maintainer through GitHub.
